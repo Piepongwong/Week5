@@ -6,6 +6,7 @@ We are ahead in the schedule. So let's use this time to catch our breath and dis
   * multi part forms
   * multer
 ## What's next for?   :rotating_light: :boom:
+ * What the hell is middleware anyway?
  * Catching and error
  * Handling the error
 ## Dealing with synchronous operations in a asynchronous world
