@@ -9,4 +9,4 @@ Today's focus are web API's. We're going to leave express for a while and use ax
 * Difference public and protected WEB API's
 * Example (Pokéapi)
 * GraphJS
-* Time for the LAB!
+* Time for the LAB! lab-financial-data-graphingAssignment
