@@ -8,4 +8,4 @@ Today's focus are web API's. We're going to to query data from WEB API's from th
 * Example (Pokéapi)
 * GraphJS
 * Time for the LAB! lab-financial-data-graphingAssignment
-* Extra: nodemailer and password reset
+* Extra: using nodemailer and jwt to build a password reset functionality
